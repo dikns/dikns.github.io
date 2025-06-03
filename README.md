@@ -1,5 +1,3 @@
-# dikns.github.io
-<!DOCTYPE html>
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
