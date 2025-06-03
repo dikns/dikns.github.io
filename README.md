@@ -3,16 +3,17 @@
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
-  <title>Prototip asistenta</title>
+  <title>Prototip</title>
   <style>
     html, body {
       margin: 0;
       height: 100%;
+      overflow: hidden;
     }
     iframe {
+      width: 100vw;
+      height: 100vh;
       border: none;
-      width: 100%;
-      height: 100%;
     }
   </style>
 </head>
@@ -20,3 +21,4 @@
   <iframe src="https://creator.voiceflow.com/prototype/683eb54fabe040bae572ab53" allow="microphone;"></iframe>
 </body>
 </html>
+
