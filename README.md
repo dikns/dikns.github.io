@@ -1,8 +1,6 @@
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
-  <title>Prototip</title>
-  <style>
     html, body {
       margin: 0;
       height: 100%;
